@@ -137,3 +137,35 @@ p {
     letter-spacing: -0.32px;
     line-height: 43px;
 }
+
+.fs_content {
+    box-shadow: 0 4px 11px 0 rgba(4, 30, 61, 0.19);
+}
+
+.fs_share {
+    text-align: center;
+    padding: 0;
+
+    li {
+        display: inline-block;
+        margin: 5px;
+        list-style: none;
+    }
+}
+
+.additional-info {
+    font-size: 11px;
+    color: #778F9B;
+    letter-spacing: 0;
+    line-height: 19px;
+}
+
+.unsubscribe {
+    a {
+        font-size: 13px;
+        color: #465262;
+        letter-spacing: 0;
+        font-weight: 500;
+        line-height: 19px;
+    }
+}
